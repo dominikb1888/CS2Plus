@@ -1,5 +1,5 @@
 --------------------------------------
-Python Programming 101
+Rust Programming 101
 --------------------------------------
 
 This first chapter introduces Python to readers that have never programmed in Python before. It also provides instructions for installing Python on your computer. The Wing Integrated Development Environment (IDE) is recommended for students learning to program. Wing IDE 101 is the free version of the IDE for educational use. The chapter goes on to introduce classes, objects, and object-oriented programming by developing a drawing application using the Tkinter graphical user interface library.
@@ -96,7 +96,7 @@ Figures from Text
 .. figure:: pixel.png
 
   Python Operator Magic Methods
-  
+
 .. figure:: blockindent.png
 
   Adjusting Indentation in Wing IDE 101

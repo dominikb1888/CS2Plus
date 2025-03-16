@@ -47,10 +47,10 @@ master_doc = u'index'
 
 
 # General information about the project.
-project = u'Data Structures and Algorithms with Python'
-html_title = u'Data Structures and Algorithms with Python'
+project = u'Data Structures and Algorithms with Rust'
+html_title = u'Data Structures and Algorithms with Rust'
 
-copyright = u'2014, Kent D. Lee and Steve Hubbard'
+copyright = u'2014, Kent D. Lee and Steve Hubbard for Python Version'
 
 
 # The version info for the project you're documenting, acts as replacement for

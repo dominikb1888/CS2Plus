@@ -1,4 +1,4 @@
-.. Data Structures and Algorithms with Python documentation master file, created by
+.. Data Structures and Algorithms with Rust documentation master file, created by
    sphinx-quickstart on Tue May 22 09:55:17 2012.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
